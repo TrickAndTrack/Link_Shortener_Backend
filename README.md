@@ -20,3 +20,5 @@ b. http://localhost:8080/api/{shortlink}
 
 ![image](https://user-images.githubusercontent.com/73180409/236404047-ae343d33-d058-4c0a-bfa2-460e0854be78.png)
 
+> Note: a) Make sure your backend and frontend project is runing.
+> I have removed my password from application.properties.
